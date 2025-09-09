@@ -1,0 +1,10 @@
+.nav-link[rel="next"] {
+display: none;
+}
+.nav-link[rel="prev"] {
+display: none;
+}
+/* To hide the entire footer navigation area in Material for MkDocs */
+.md-footer__inner {
+display: none;
+}
